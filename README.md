@@ -1,2 +1,4 @@
 # recipes
-This is just plain recipes :) Just for some fun 
+This repo has recipes for `paneer tikka masala` and `hyderbadi biryani`
+
+This entire content was made for fun 😃
